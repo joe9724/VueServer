@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;VueServer&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../help" />
+      <root url="file://$PROJECT_DIR$/../helloSpark" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../ML_CF" />
+      <root url="file://$PROJECT_DIR$/../Spider" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0816" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0815" />
+      <root url="file://$PROJECT_DIR$/../AdminLTE-2.4.0-rc" />
+      <root url="file://$PROJECT_DIR$/../lib" />
+      <root url="file://$PROJECT_DIR$/../goERP" />
+      <root url="file://$PROJECT_DIR$/../WiFi智能平台技术方案及报价" />
+      <root url="file://$PROJECT_DIR$/../zte-wuhan" />
+      <root url="file://$PROJECT_DIR$/../hellobeego1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../model" />
+      <root url="file://$PROJECT_DIR$/../zte" />
+      <root url="file://$PROJECT_DIR$/../ibus" />
+      <root url="file://$PROJECT_DIR$/../kl" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../hellobeego" />
+      <root url="file://$PROJECT_DIR$/../webtest" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../help" />
+      <root url="file://$PROJECT_DIR$/../helloSpark" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../ML_CF" />
+      <root url="file://$PROJECT_DIR$/../Spider" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0816" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../hellobeego_0815" />
+      <root url="file://$PROJECT_DIR$/../AdminLTE-2.4.0-rc" />
+      <root url="file://$PROJECT_DIR$/../lib" />
+      <root url="file://$PROJECT_DIR$/../goERP" />
+      <root url="file://$PROJECT_DIR$/../WiFi智能平台技术方案及报价" />
+      <root url="file://$PROJECT_DIR$/../zte-wuhan" />
+      <root url="file://$PROJECT_DIR$/../hellobeego1" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../model" />
+      <root url="file://$PROJECT_DIR$/../zte" />
+      <root url="file://$PROJECT_DIR$/../ibus" />
+      <root url="file://$PROJECT_DIR$/../kl" />
+      <root url="file://$PROJECT_DIR$/../go-server-server-generated" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../hellobeego" />
+      <root url="file://$PROJECT_DIR$/../webtest" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
